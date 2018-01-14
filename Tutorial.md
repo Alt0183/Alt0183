@@ -46,12 +46,23 @@ Les librairies utilisées sont :
 Dans la fenètre d'arduino, copiez le code disponible [sur ce lien](Arduino/Buzzer/Buzzer.ino)
 
 Votre fenètre doit ressembler à cela :
+
 ![Fenetre Arduino après avoir collé le code](Images/arduino.PNG)
 
 ### Téléverser le code sur la carte Arduino 
 
 Branchez votre carte Arduino au port USB de votre ordinateur
 
+Sélectionnez le type de carte que vous utilisez dans le menu approprié :
+
 ![Sélection de la carte](Images/carte.png)
 
-![Sélection du port](Images/port.png)
+Dans le menu "port" sélectionnez le seul disponible (le numéro derrière COM peut varier, ce n'est pas important)
+
+Cliquez sur le bouton téléverser en forme de flèche pour envoyer le script sur l'Arduino :
+
+![televerser](Images/televerser.png)
+
+Si la partie noire en bas de la fenètre ne renvoie que du texte écrit en blanc et pas d'erreur (écrites en orange), le script est bien chargé sur l'Arduino : 
+
+![check](Images/check.png)
