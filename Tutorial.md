@@ -73,19 +73,19 @@ Dans la version originale le buzzer a été imprimé en 3D en utilisant le fichi
 
 Le montage s'assemble comme celà :
 
-![check](Images/assemblage.PNG)
+![check](Images/assemblage.jpg)
 
 Percer la boite : 
 
-![check](Images/percage.PNG)
+![check](Images/percage.jpg)
 
 Peindre ou recouvrir l'extérieur de la boite : 
 
-![check](Images/peinture.PNG)
+![check](Images/peinture.jpg)
 
 Visser le bouton dans la boite :
 
-![check](Images/boutonPNG)
+![check](Images/bouton.jpg)
 
 Brancher le bouton (ici, les cables ont été soudés sur le bouton) :
 
@@ -93,8 +93,8 @@ Brancher le bouton (ici, les cables ont été soudés sur le bouton) :
 
 Tout mettre dans la boite et refermer !
 
-![Bouton](Images/montage.PNG)
+![Bouton](Images/montage.jpg)
 
 Voilà !
 
-![Bouton ](Images/fin.PNG)
+![Bouton ](Images/fin.jpg)
