@@ -12,6 +12,10 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ## Ressources sur l'écriture inclusive
 
+> « Le genre masculin ne sera plus regardé, même dans la grammaire, comme le genre le plus noble, attendu que tous les genres, tous > les sexes et tous les êtres doivent être et sont également nobles. »  
+
+Requête des dames à l'Assemblée nationale, article 3 du Projet de décret adressé à la Législative, 1792.
+
 Voici une sélection de ressources pour alimenter vos débats sur l'écriture inclusive et passer à l'action :
 
 - [Le Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/stereotypes-et-roles-sociaux/zoom-sur/article/pour-une-communication-sans)
@@ -23,7 +27,7 @@ Voici une sélection de ressources pour alimenter vos débats sur l'écriture in
 
 [form html pour récupérer les adresses]
 
-Liens réseaux sociaux (Twitter, Instagram, Github, Facebook)
+
 
 Mention footer : ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 sous licence Creative Commons.
 Contact : mailto
