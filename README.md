@@ -52,6 +52,6 @@ Votre fenètre doit ressembler à cela :
 
 Branchez votre carte Arduino au port USB de votre ordinateur
 
-![Sélection de la carte](Images/carte.PNG)
+![Sélection de la carte](Images/carte.png)
 
-![Sélection du port](Images/port.PNG)
+![Sélection du port](Images/port.png)
