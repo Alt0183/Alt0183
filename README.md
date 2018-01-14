@@ -32,7 +32,7 @@ N'hésitez pas à nous laisser votre adresse mail pour être tenu·e informé·e
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSesBYaVCQM-NDpRlMn8QnpjHFccGZ0p6LW1I69tBJElzHB0rA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
   Adresse mail: <br>
-  <input type="text" name="entry.119910746" id="entry.119910746"><br>
+  <input type="text" name="entry.119910746" id="entry.119910746">
   <!--Commentaire : <br>
   <input type="text" name="entry.383631987" id="entry.383631987"> -->
   <input type="submit" value="Envoyer">
