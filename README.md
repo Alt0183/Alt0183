@@ -28,6 +28,23 @@ Voici une sélection de ressources pour alimenter vos discussions sur l'écritur
 
 ## Suivre les avancées du projet
 
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSesBYaVCQM-NDpRlMn8QnpjHFccGZ0p6LW1I69tBJElzHB0rA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+  Adresse mail: <br>
+  <input type="text" name="entry.119910746" id="entry.119910746"><br>
+  Commentaire : <br>
+  <input type="text" name="entry.383631987" id="entry.383631987">
+  <input type="submit" value="Envoyer">
+</form>
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
 [Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
 
 Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion sous licence Creative Commons
