@@ -21,18 +21,26 @@ Ces équipements peuvent permettrent de faciliter la réalisation de cet objet :
 * imprimante 3D
 
 ### Cablage :
+Cablage du bouton sur l'Arduino Leonardo :
+![Cablage du bouton sur l'Arduino Leonardo ](Images/wiring_leo.png)
 
-![Cablage](wiring.PNG)
-
+Cablage du bouton sur l'Arduino Leonardo Pro Mini :
+![Cablage du bouton sur l'Arduino Leonardo Pro Mini](Images/wiring_leo_pro.png)
 ## Programmation 
 
 ### Logiciel arduino
 Pour programmer votre carte Arduino vous aurez besoin d'installer le logiciel disponible sur la [page téléchargement du site Arduino](https://www.arduino.cc/en/Main/Software).
 
-### Charger les librairies 
+### Installer les librairies 
 Les librairies utilisées sont :
 * Keyboard qui permet à la carte Arduino d'envoyer des signaux correspondant à des touches claviers
 * oneButton qui simplifie l'usage du double clic
 
+![Installer des librairies](Images/inclurebiblio.png)
 
+![Installer la librairie oneButton](Images/oneButton.PNG)
 
+![Installer la librairie Keyboard](Images/keyboard.PNG)
+
+### Code
+Dans la fenètre d'arduino, copiez le code disponible [ici](Arduino/Buzzer/Buzzer.ino).
