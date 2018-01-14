@@ -4,7 +4,7 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ## Comment ça marche ?
 
-- Fabriquez votre boîtier (Doc en cours de finalisation, très bientôt en ligne!)
+- Fabriquez votre boîtier (Les instructions de fabrication sont en cours de finalisation, très bientôt en ligne!)
 - Connectez-le à votre ordinateur par USB 
 - Appuyez l'égalité dans le langage ! 
 
