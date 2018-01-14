@@ -1,6 +1,6 @@
-[image / GIF / vidéo avec Alt0183 écrit sur le boîtier]
-
 Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité des représentations entre les femmes et les hommes dans l'écriture. C'est aussi une extension de clavier open source pour cliquer sans modération et susciter le débat !
+
+![Alt text](https://i.imgur.com/qoXCjTo.jpg)
 
 ## Comment ça marche ?
 
@@ -8,7 +8,7 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 - Connectez-le à votre ordinateur par USB 
 - Appuyez l'égalité dans le langage ! 
 
-|image]
+
 
 ## Ressources sur l'écriture inclusive
 
@@ -22,16 +22,13 @@ Voici une sélection de ressources pour alimenter vos discussions sur l'écritur
 
 - [Le manuel d'écriture inclusive de l'agence Mots-Clés](http://www.ecriture-inclusive.fr/)
 
-- [Épinglons-les : initiative militante pour l'emploi du langage inclusif en entreprise](https://epinglons-les.hotglue.me/)
+- [Épinglons-les : initiative militante pour l'emploi du langage inclusif en entreprise](https://epinglons-les.hotglue.me/?start.auto-20180114143251/)
 
 - [Enrichissez votre vocabulaire en découvrant Égalexique, le lexique égalitaire](http://www.egalexique.com/)
 
 - [Un programme collaboratif d'une semaine sur le thème du langage inclusif](http://semaineinclusive-hackecritureinclusive18.strikingly.com/)
 
 ## Suivre les avancées du projet
-
-[form html pour récupérer les adresses]
-
 
 [Contact](mailto:contact.alt0183@gmail.com)
 
