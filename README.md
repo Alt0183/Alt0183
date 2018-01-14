@@ -24,13 +24,16 @@ Voici une sélection de ressources pour alimenter vos discussions sur l'écritur
 
 - [Épinglons-les : initiative militante pour l'emploi du langage inclusif en entreprise](https://epinglons-les.hotglue.me/)
 
-- [Un programme collaboratif d'une semaine sur le thème du langage inclusif](http://semaineinclusive-hackecritureinclusive18.strikingly.com/)
+- [Enrichissez votre vocabulaire en découvrant Égalexique, le lexique égalitaire](http://www.egalexique.com/)
 
+- [Un programme collaboratif d'une semaine sur le thème du langage inclusif](http://semaineinclusive-hackecritureinclusive18.strikingly.com/)
 
 ## Suivre les avancées du projet
 
 [form html pour récupérer les adresses]
 
 
-Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 sous licence Creative Commons.
 [Contact](mailto:contact.alt0183@gmail.com)
+
+Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 sous licence Creative Commons
+
