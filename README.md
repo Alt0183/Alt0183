@@ -43,4 +43,15 @@ Les librairies utilisées sont :
 ![Installer la librairie Keyboard](Images/keyboard.PNG)
 
 ### Code
-Dans la fenètre d'arduino, copiez le code disponible [ici](Arduino/Buzzer/Buzzer.ino).
+Dans la fenètre d'arduino, copiez le code disponible [sur ce lien](Arduino/Buzzer/Buzzer.ino)
+
+Votre fenètre doit ressembler à cela :
+![Fenetre Arduino après avoir collé le code](Images/arduino.PNG)
+
+### Téléverser le code sur la carte Arduino 
+
+Branchez votre carte Arduino au port USB de votre ordinateur
+
+![Sélection de la carte](Images/carte.PNG)
+
+![Sélection du port](Images/port.PNG)
