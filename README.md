@@ -30,14 +30,6 @@ Voici une sélection de ressources pour alimenter vos discussions sur l'écritur
 
 N'hésitez pas à nous laisser votre adresse mail pour être tenu·e informé·e des avancées du projet :
 
-<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSesBYaVCQM-NDpRlMn8QnpjHFccGZ0p6LW1I69tBJElzHB0rA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
-  Adresse mail: <br>
-  <input type="text" name="entry.119910746" id="entry.119910746">
-  <!--Commentaire : <br>
-  <input type="text" name="entry.383631987" id="entry.383631987"> -->
-  <input type="submit" value="Envoyer">
-</form>
-
 <script src="assets/js/jquery.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
@@ -46,6 +38,15 @@ $('#gform').on('submit', function(e) {
   $('#gform').prepend('Your submission has been processed...');
   });
 </script>
+
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSesBYaVCQM-NDpRlMn8QnpjHFccGZ0p6LW1I69tBJElzHB0rA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+  Adresse mail: <br>
+  <input type="text" name="entry.119910746" id="entry.119910746">
+  <!--Commentaire : <br>
+  <input type="text" name="entry.383631987" id="entry.383631987"> -->
+  <input type="submit" value="Envoyer">
+</form>
+
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 
 Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les réseaux sociaux, nous ferons notre possible pour vous répondre le plus rapidement possible : 
