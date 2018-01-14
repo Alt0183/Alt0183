@@ -14,8 +14,6 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ## Ressources sur l'écriture inclusive
 
-Alt0183 est un projet militant, porté par des personnes convaincues que le langage reflète la société et sa façon de changer le monde, et doit ainsi assurer une égalité de représentations des deux sexes. 
-
 Voici une sélection de ressources pour alimenter vos débats sur l'écriture inclusive et passer à l'action :
 
 - [Le Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/stereotypes-et-roles-sociaux/zoom-sur/article/pour-une-communication-sans)
