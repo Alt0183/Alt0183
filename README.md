@@ -1,58 +1,22 @@
-# Alt0183
-Adoptez un caractère inclusif
+# Alt0183 : adoptez un caractère inclusif !
 
-## Description
-Le Buzzer point médian a pour fonction de créer un raccourci physique et tangible vers le caractère point médian difficile d'accès sur les claviers Windows.
-Cet objet peut prendre toute forme selon les choix de la personne qui le réalise. Dans sa version initiale, le coté volontairement voyant de l'objet a pour but de susciter l'intérêt et le questionnement des personnes environnantes afin de permettre d'initier un débat autour de l'écriture inclusive.
-Ce projet a été réalisé lors du Hackathon Ecriture Inclusive organisé a Simplon.co et soutenu par ...
+Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité des représentations entre les femmes et les hommes dans l'écriture. C'est aussi une extension de clavier open source 
 
-Le buzzer se connecte au port USB d'un ordinateur et agit comme un clavier externe qui ne renvoit que le caractère point-médian.
+[image / GIF / vidéo]
 
-## Réalisation de l'objet physique :
+## Comment ça marche ?
+- Fabriquez votre boîtier
+- Connectez-le à votre ordinateur par USB 
+- Appuyez l'égalité dans le langage !
 
-### Liste du matériel :
-* Arduino Léonardo ou Léonardo pro (l'important est que le microcontroleur soit un ATMEGA32u4)
-* une boite
-* deux fils de cablage
-* un interrupteur
-* un "buzzer" imprimé en 3D ou réalisé en mousse
+## Ressources sur l'écriture inclusive
 
-Ces équipements peuvent permettrent de faciliter la réalisation de cet objet :
-* fer à souder 
-* imprimante 3D
+Pour faire véritablement changer les mentalités, il faut agir sur ce par quoi elles se construisent : le langage.
 
-### Cablage :
-Cablage du bouton sur l'Arduino Leonardo :
-![Cablage du bouton sur l'Arduino Leonardo ](Images/wiring_leo.png)
+http://www.haut-conseil-egalite.gouv.fr/stereotypes-et-roles-sociaux/zoom-sur/article/pour-une-communication-sans
+http://www.ecriture-inclusive.fr/
 
-Cablage du bouton sur l'Arduino Leonardo Pro Mini :
-![Cablage du bouton sur l'Arduino Leonardo Pro Mini](Images/wiring_leo_pro.png)
-## Programmation 
+## Liens réseaux sociaux (Twitter, Instagram, Github, Facebook)
 
-### Logiciel arduino
-Pour programmer votre carte Arduino vous aurez besoin d'installer le logiciel disponible sur la [page téléchargement du site Arduino](https://www.arduino.cc/en/Main/Software).
+Mention footer : ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 sous licence Creative Commons.
 
-### Installer les librairies 
-Les librairies utilisées sont :
-* Keyboard qui permet à la carte Arduino d'envoyer des signaux correspondant à des touches claviers
-* oneButton qui simplifie l'usage du double clic
-
-![Installer des librairies](Images/inclurebiblio.png)
-
-![Installer la librairie oneButton](Images/oneButton.PNG)
-
-![Installer la librairie Keyboard](Images/keyboard.PNG)
-
-### Code
-Dans la fenètre d'arduino, copiez le code disponible [sur ce lien](Arduino/Buzzer/Buzzer.ino)
-
-Votre fenètre doit ressembler à cela :
-![Fenetre Arduino après avoir collé le code](Images/arduino.PNG)
-
-### Téléverser le code sur la carte Arduino 
-
-Branchez votre carte Arduino au port USB de votre ordinateur
-
-![Sélection de la carte](Images/carte.png)
-
-![Sélection du port](Images/port.png)
