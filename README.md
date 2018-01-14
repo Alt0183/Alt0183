@@ -4,11 +4,9 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ## Comment ça marche ?
 
-- Fabriquez votre boîtier : en solo ou en atelier collectif 
+- Fabriquez votre boîtier 
 - Connectez-le à votre ordinateur par USB 
 - Appuyez l'égalité dans le langage ! 
-
-
 
 ## Ressources sur l'écriture inclusive
 
@@ -32,6 +30,5 @@ Voici une sélection de ressources pour alimenter vos discussions sur l'écritur
 
 [Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
 
-Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion
-Licence Creative Commons
+Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion sous licence Creative Commons
 
