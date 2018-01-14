@@ -1,6 +1,6 @@
 # Alt0183 : adoptez un caractère inclusif !
 
-Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité des représentations entre les femmes et les hommes dans l'écriture. C'est aussi une extension de clavier open source 
+Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité des représentations entre les femmes et les hommes dans l'écriture. C'est aussi une extension de clavier open source pour cliquer sans modération et susciter le débat !
 
 [image / GIF / vidéo]
 
