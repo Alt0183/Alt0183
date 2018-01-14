@@ -61,11 +61,11 @@ Dans le menu "port" sélectionnez le seul disponible (le numéro derrière COM p
 
 Cliquez sur le bouton téléverser en forme de flèche pour envoyer le script sur l'Arduino :
 
-![televerser](Images/televerser.png)
+![televerser](Images/televerser.PNG)
 
 Si la partie noire en bas de la fenètre ne renvoie que du texte écrit en blanc et pas d'erreur (écrites en orange), le script est bien chargé sur l'Arduino : 
 
-![check](Images/check.png)
+![check](Images/check.PNG)
 
 ## Fabrication et assemblage du boutton
 
