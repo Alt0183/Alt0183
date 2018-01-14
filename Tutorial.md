@@ -1,4 +1,4 @@
-# BuzzerPointMedian
+# Comment fabriquer un bouton Alt0183
 
 ## Description
 Le Buzzer point médian a pour fonction de créer un raccourci physique et tangible vers le caractère point médian difficile d'accès sur les claviers Windows.
@@ -66,3 +66,6 @@ Cliquez sur le bouton téléverser en forme de flèche pour envoyer le script su
 Si la partie noire en bas de la fenètre ne renvoie que du texte écrit en blanc et pas d'erreur (écrites en orange), le script est bien chargé sur l'Arduino : 
 
 ![check](Images/check.png)
+
+## Fabrication et assemblage du boutton
+
