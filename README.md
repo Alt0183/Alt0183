@@ -1,4 +1,5 @@
-# ALt0183
+# Alt0183
+Adoptez un caractère inclusif
 
 ## Description
 Le Buzzer point médian a pour fonction de créer un raccourci physique et tangible vers le caractère point médian difficile d'accès sur les claviers Windows.
