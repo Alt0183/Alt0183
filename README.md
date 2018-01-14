@@ -16,11 +16,15 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 *Requête des dames à l'Assemblée nationale, article 3 du Projet de décret adressé à la Législative, 1792.*
 
-Voici une sélection de ressources pour alimenter vos discussions sur l'écriture inclusive et pour passer à l'action :
+Voici une sélection de ressources pour alimenter vos discussions sur l'écriture inclusive et passer à l'action :
 
 - [Le Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/stereotypes-et-roles-sociaux/zoom-sur/article/pour-une-communication-sans)
 
 - [Le manuel d'écriture inclusive de l'agence Mots-Clés](http://www.ecriture-inclusive.fr/)
+
+- [Épinglons-les : initiative militante pour l'emploi du langage inclusif en entreprise](https://epinglons-les.hotglue.me/)
+
+- [Un programme collaboratif d'une semaine sur le thème du langage inclusif](http://semaineinclusive-hackecritureinclusive18.strikingly.com/)
 
 
 ## Suivre les avancées du projet
@@ -28,6 +32,5 @@ Voici une sélection de ressources pour alimenter vos discussions sur l'écritur
 [form html pour récupérer les adresses]
 
 
-
-Mention footer : ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 sous licence Creative Commons.
-Contact : mailto
+Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 sous licence Creative Commons.
+[Contact](mailto:contact.alt0183@gmail.com)
