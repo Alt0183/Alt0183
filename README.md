@@ -18,10 +18,9 @@ Alt0183 est un projet militant, porté par des personnes convaincues que le lang
 
 Voici une sélection de ressources pour alimenter vos débats sur l'écriture inclusive et passer à l'action :
 
-- Le Guide pratique pour une communication publique sans stéréotype de sexe
-http://www.haut-conseil-egalite.gouv.fr/stereotypes-et-roles-sociaux/zoom-sur/article/pour-une-communication-sans
+- [Le Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/stereotypes-et-roles-sociaux/zoom-sur/article/pour-une-communication-sans)
 
-- Le manuel d'écriture inclusive de l'agence Mots-Clés http://www.ecriture-inclusive.fr/
+- [Le manuel d'écriture inclusive de l'agence Mots-Clés](http://www.ecriture-inclusive.fr/)
 
 
 ## Suivre les avancées du projet
