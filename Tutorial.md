@@ -69,3 +69,32 @@ Si la partie noire en bas de la fenètre ne renvoie que du texte écrit en blanc
 
 ## Fabrication et assemblage du boutton
 
+Dans la version originale le buzzer a été imprimé en 3D en utilisant le fichier [Knopf.STL](https://www.thingiverse.com/thing:1406545/#files) proposé par [MaxWinterstein](https://www.thingiverse.com/MaxWinterstein/about) mais vous pouvez tout à faire le remplacer par une demi sphère en mousse ou polystirène.
+
+Le montage s'assemble comme celà :
+
+![check](Images/assemblage.PNG)
+
+Percer la boite : 
+
+![check](Images/percage.PNG)
+
+Peindre ou recouvrir l'extérieur de la boite : 
+
+![check](Images/peinture.PNG)
+
+Visser le bouton dans la boite :
+
+![check](Images/boutonPNG)
+
+Brancher le bouton (ici, les cables ont été soudés sur le bouton) :
+
+![check](Images/branchement.PNG)
+
+Tout mettre dans la boite et refermer !
+
+![Bouton](Images/montage.PNG)
+
+Voilà !
+
+![Bouton ](Images/fin.PNG)
