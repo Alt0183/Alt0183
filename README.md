@@ -22,5 +22,7 @@ Ces équipements peuvent permettrent de faciliter la réalisation de cet objet :
 
 ### Cablage :
 
-![Bilby Stampede](http://example.com/images/logo.png)
+![Cablage](wiring.PNG)
+
+
 
