@@ -55,13 +55,13 @@ Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les r
 
 [Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
 
+---
 
 Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion sous licence GNU General Public License v3.0
 
 <div style="text-align:center"><img src ="Images/HEI.png"/></div>
 
-Merci aux organisateurs et organisatrices du hackathon ainsi qu'aux sponsors!
-
+Merci aux personnes ayant organisé ce hackathon, aux participant·es ainsi qu'aux sponsors!
 
 ---
 
