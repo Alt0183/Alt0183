@@ -53,5 +53,5 @@ Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les r
 
 [Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
 
-Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion sous licence Creative Commons
+Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion sous licence GNU General Public License v3.0
 
