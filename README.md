@@ -63,7 +63,7 @@ Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 
 Merci aux organisateurs et organisatrices du hackathon ainsi qu'aux sponsors!
 
 
-=============================================
+---
 
 ![Alt text](https://i.imgur.com/qoXCjTo.jpg)
 
