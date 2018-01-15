@@ -54,7 +54,9 @@ $('#gform').on('submit', function(e) {
 
 Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les réseaux sociaux, nous ferons notre possible pour vous répondre le plus rapidement possible : 
 
-<div style="text-align:center">[Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)</div>
+<div style="text-align:center">
+[Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
+</div>
 
 ---
 
