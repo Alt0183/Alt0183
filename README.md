@@ -61,7 +61,7 @@ Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les r
 
 Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion sous licence GNU General Public License v3.0
 
-<div style="text-align:center"><img src ="Images/HEI.png"/></div>
+<div style="text-align:center"><a href="http://hackecritureinclusive.com/" rel="site hackathon ecriture inclusive"><img src ="Images/HEI.png"/></a></div>
 
 Merci aux personnes ayant organisé ce hackathon, aux participant·es ainsi qu'aux sponsors!
 
