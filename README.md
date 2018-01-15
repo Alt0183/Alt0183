@@ -1,12 +1,16 @@
 Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité des représentations entre les femmes et les hommes dans l'écriture. C'est aussi une extension de clavier open source pour cliquer sans modération et susciter le débat !
 
-![Alt text](https://i.imgur.com/qoXCjTo.jpg)
+<>
+
+![Alt text](Images/buzzer2.jpg)
 
 ## Comment ça marche ?
 
 - Fabriquez votre boîtier (Les instructions de fabrication sont en cours de finalisation, très bientôt en ligne!)
 - Connectez-le à votre ordinateur par USB 
-- Appuyez l'égalité dans le langage ! 
+- Appuyez l'égalité dans le langage !
+
+![Alt text](Images/buzzer.jpg)
 
 ## Ressources sur l'écriture inclusive
 
@@ -54,4 +58,6 @@ Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les r
 [Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
 
 Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par Guillaume Marion sous licence GNU General Public License v3.0
+
+![Alt text](https://i.imgur.com/qoXCjTo.jpg)
 
