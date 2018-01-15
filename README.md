@@ -4,11 +4,14 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ## Comment ça marche ?
 
-- Fabriquez votre boîtier (Les instructions de fabrication sont en cours de finalisation, très bientôt en ligne!)
-- Connectez-le à votre ordinateur par USB 
+- Fabriquez votre boîtier (Les instructions de fabrication arrivent très bientôt en ligne!)
+- Connectez-le à votre ordinateur par USB, rien à installer
 - Appuyez l'égalité dans le langage !
 
 ![Alt text](Images/buzzer.jpg)
+
+Clic simple = "·"
+Double clic = "·es"
 
 ## Ressources sur l'écriture inclusive
 
