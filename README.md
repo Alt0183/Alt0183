@@ -10,8 +10,8 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ![Alt text](Images/buzzer.jpg)
 
-Clic simple = "·"
-Double clic = "·es"
+- Clic simple = "·"
+- Double clic = "·es"
 
 ## Ressources sur l'écriture inclusive
 
