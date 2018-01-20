@@ -7,6 +7,16 @@ const int ledPin = 1;      // the number of the LED pin
 // Variables will change:
 int ledState = HIGH;
 
+#define KEYPAD_1                (  89  | 0xF000 )
+#define KEYPAD_2                (  90  | 0xF000 )
+#define KEYPAD_3                (  91  | 0xF000 )
+#define KEYPAD_4                (  92  | 0xF000 )
+#define KEYPAD_5                (  93  | 0xF000 )
+#define KEYPAD_6                (  94  | 0xF000 )
+#define KEYPAD_7                (  95  | 0xF000 )
+#define KEYPAD_8                (  96  | 0xF000 )
+#define KEYPAD_9                (  97  | 0xF000 )
+#define KEYPAD_0                (  98  | 0xF000 )
 
 void setup() {
   pinMode(buttonPin, INPUT);
@@ -28,24 +38,19 @@ void loop() {
         ledState=HIGH;
       }
       digitalWrite(ledPin, ledState);
-      ptMed();
-      
+     ptMed();   
     }
   }
-
 }
 
 void ptMed() {
-
   DigiKeyboard.update();
-  DigiKeyboard.sendKeyStroke(MOD_ALT_LEFT,0,0);
-  DigiKeyboard.sendKeyStroke(39,0,10);
-  DigiKeyboard.sendKeyStroke(30,0,10);
-  DigiKeyboard.sendKeyStroke(37,0,10);
-  DigiKeyboard.sendKeyStroke(32,0,10);
-  DigiKeyboard.sendKeyStroke(0);   
+  //DigiKeyboard.sendKeyPress(0,MOD_ALT_LEFT);
+  DigiKeyboard.sendKeyPress(KEYPAD_0,MOD_ALT_LEFT);
+  DigiKeyboard.sendKeyPress(KEYPAD_1,MOD_ALT_LEFT);
+  DigiKeyboard.sendKeyPress(KEYPAD_8,MOD_ALT_LEFT);
+  DigiKeyboard.sendKeyPress(KEYPAD_3,MOD_ALT_LEFT);
+  DigiKeyboard.sendKeyPress(0,0);   
   DigiKeyboard.delay(100);
   
 }
-
-
