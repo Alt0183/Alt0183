@@ -1,11 +1,15 @@
 # Introduction :
 
-Cette version est la plus simple à réaliser. La liste du matériel est fournie et les fichiers à imprimer en 3D également.
+
 
 ## Liste du matériel :
-* Arduino Pro Micro
-* deux fils de cablage
-* un interrupteur
+Pour réaliser votre bouton Alt0183, vous aurez besoin des produits suivants : 
+* [Arduino Pro Micro](https://www.amazon.fr/gp/product/B019SXN84E)
+* [deux fils de cablage](https://www.amazon.fr/Elegoo-Multicolore-M%C3%A2le-Femelle-M%C3%A2le-M%C3%A2le-Femelle-Femelle/dp/B01JD5WCG2)
+* [un bouton poussoir](https://www.amazon.fr/gp/product/B01FDJLVFK)
+
+Notes : 
+* Les liens sont donnés à titre indicatifs. C'est ceux que nous avons utilisé pour le prototype donc nous savons que ce matériel est compatible. Cependant, ce projet est également réalisable avec une carte Arduino Leonardo et avec n'importe quel type de bouton poussoir. N'hésitez donc pas à adapter le matériel selon vos besoins ou ce que vous avez sous la main.
 
 Vous aurez également besoin des équipements suivants :
 * fer à souder
@@ -14,26 +18,40 @@ Vous aurez également besoin des équipements suivants :
 Si vous ne disposez pas de ces outils, nous vous conseillons de prendre contact avec un fablab près de chez vous.
 
 # Impression 3D du boitier :
-Téléchargez les fichiers STL :
+Téléchargez les fichiers STL puis imprimez les en 3D :
 * [Dessous](CAO/STL/Dessous.stl)
 * [Dessus](CAO/STL/dessus.stl)
 * [Buzzer](CAO/STL/buzzer.stl)
 
-Imprimez les en 3D. Dans notre cas, nous avons choisi d'imprimer le boitier en jaune et le buzzer en rouge mais libre à vous de choisir le filament de votre choix.
+Dans notre cas, nous avons choisi d'imprimer le boitier en jaune et le buzzer en rouge mais libre à vous de choisir le filament de votre choix.
+
+![impression 3D](IMG/alt-2.jpg)
+
+![impression 3D](IMG/alt.jpg)
 
 # Fabrication et assemblage du boutton
 
-## Soudage du bouton :
+## Soudage :
+
+Soudez un fil sur chaque patte du bouton poussoir
+
+Dans certains cas il peut être également nécessaire de souder les broches sur la carte Arduino Pro Micro
 
 ## Montage du bouton dans le boitier
 
 Visser le bouton dans le boitier :
 
-Brancher le bouton (ici, les cables ont été soudés sur le bouton) :
+![assemblage](IMG/alt-4.jpg)
+
+Brancher le bouton selon le schéma suivant :
 
 ![Cablage](IMG/wiring_leo_pro.png)
 
+Un des deux fils doit se brancher sur le port 8 et l'autre sur un port GND. Vous pouvez bien sur brancher autrement, mais il faudra alors apporter les modifications nécessaires dans le code Arduino.
+
 Positionner l'arduino dans la boite et la refermer.
+
+![Assemblage](IMG/alt-5.jpg)
 
 # Programmation :
 A cette étape, vous pouvez brancher l'arduino à votre ordinateur
