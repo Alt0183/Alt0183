@@ -92,7 +92,7 @@ La dernière étape consiste à envoyer ce code sur la carte Arduino. Pour celà
 
 ![Sélection du port](IMG/port.png)
 
-Cliquez sur le bouton téléverser en forme de flèche pour envoyer le script sur l'Arduino :
+* Cliquez sur le bouton téléverser en forme de flèche pour envoyer le script sur l'Arduino :
 
 ![televerser](IMG/televerser.PNG)
 
@@ -100,8 +100,11 @@ Si la partie noire en bas de la fenètre ne renvoie que du texte écrit en blanc
 
 ![check](IMG/check.PNG)
 
-Voilà! Enjoy!
+### Partagez
+
+Voilà, vous avez réalisé un Alt0183! Pensez à nous envoyer une photo en situation [par mail](contact.alt0183@gmail.com) ou sur Instagram avec le hashtag #Alt0183!
 
 ### En cas de problème :
 
 Allez dans l'onglet "Issues" de ce site et décrivez votre problème. Nous ferons notre possible pour vous répondre au plus vite.
+
