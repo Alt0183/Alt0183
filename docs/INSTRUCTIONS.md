@@ -1,15 +1,10 @@
-# Introduction :
-
-
-
-## Liste du matériel :
+# Matériel nécessaire
 Pour réaliser votre bouton Alt0183, vous aurez besoin des produits suivants : 
-* [Arduino Pro Micro](https://www.amazon.fr/gp/product/B019SXN84E)
-* [deux fils de cablage](https://www.amazon.fr/Elegoo-Multicolore-M%C3%A2le-Femelle-M%C3%A2le-M%C3%A2le-Femelle-Femelle/dp/B01JD5WCG2)
+* [une carte Arduino Pro Micro](https://www.amazon.fr/gp/product/B019SXN84E)
+* [deux fils électriques](https://www.amazon.fr/Elegoo-Multicolore-M%C3%A2le-Femelle-M%C3%A2le-M%C3%A2le-Femelle-Femelle/dp/B01JD5WCG2)
 * [un bouton poussoir](https://www.amazon.fr/gp/product/B01FDJLVFK)
 
-Notes : 
-* Les liens sont donnés à titre indicatifs. C'est ceux que nous avons utilisé pour le prototype donc nous savons que ce matériel est compatible. Cependant, ce projet est également réalisable avec une carte Arduino Leonardo et avec n'importe quel type de bouton poussoir. N'hésitez donc pas à adapter le matériel selon vos besoins ou ce que vous avez sous la main.
+> Les liens sont donnés à titre indicatifs. C'est ceux que nous avons utilisé pour le prototype donc nous savons que ce matériel est compatible. Cependant, ce projet est également réalisable avec une carte Arduino Leonardo et avec n'importe quel type de bouton poussoir. N'hésitez donc pas à adapter le matériel selon vos besoins ou ce que vous avez sous la main.
 
 Vous aurez également besoin des équipements suivants :
 * fer à souder
@@ -17,7 +12,8 @@ Vous aurez également besoin des équipements suivants :
 
 Si vous ne disposez pas de ces outils, nous vous conseillons de prendre contact avec un fablab près de chez vous.
 
-# Impression 3D du boitier :
+# Impression 3D du boitier 
+
 Téléchargez les fichiers STL puis imprimez les en 3D :
 * [Dessous](CAO/STL/Dessous.stl)
 * [Dessus](CAO/STL/dessus.stl)
@@ -31,7 +27,7 @@ Dans notre cas, nous avons choisi d'imprimer le boitier en jaune et le buzzer en
 
 # Fabrication et assemblage du boutton
 
-## Soudage :
+## Soudage 
 
 Soudez un fil sur chaque patte du bouton poussoir
 
@@ -53,7 +49,7 @@ Positionner l'arduino dans la boite et la refermer.
 
 ![Assemblage](IMG/alt-5.jpg)
 
-# Programmation :
+# Programmation 
 A cette étape, vous pouvez brancher l'arduino à votre ordinateur
 
 ## Installer le Logiciel arduino
@@ -74,7 +70,7 @@ Les librairies apportent des fonctions supplémentaires à Arduino. Dans ce proj
 
 Dans la fenètre du logiciel Arduino, copiez le code disponible [sur ce lien](Alt0183_ProMicro.ino)
 
-Votre fenêtre doit maintenance ressembler à cela :
+Votre fenêtre doit maintenant ressembler à cela :
 
 ![Fenetre Arduino après avoir collé le code](IMG/arduino.PNG)
 
@@ -100,11 +96,11 @@ Si la partie noire en bas de la fenètre ne renvoie que du texte écrit en blanc
 
 ![check](IMG/check.PNG)
 
-### Partagez
+# Partagez
 
-Voilà, vous avez réalisé un Alt0183! Pensez à nous envoyer une photo en situation [par mail](contact.alt0183@gmail.com) ou sur Instagram avec le hashtag #Alt0183!
+Voilà, vous avez réalisé un Alt0183! Pensez à nous envoyer une photo en situation [par mail](mailto:contact.alt0183@gmail.com) ou sur Instagram avec le hashtag #Alt0183!
 
-### En cas de problème :
+# En cas de problème 
 
 Allez dans l'onglet "Issues" de ce site et décrivez votre problème. Nous ferons notre possible pour vous répondre au plus vite.
 
