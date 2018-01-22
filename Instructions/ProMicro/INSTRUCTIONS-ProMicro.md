@@ -1,3 +1,8 @@
+---
+title: Instructions ProMicro
+layout: post
+---
+
 # Introduction :
 
 Cette version est la plus simple à réaliser. La liste du matériel est fournie et les fichiers à imprimer en 3D également.
