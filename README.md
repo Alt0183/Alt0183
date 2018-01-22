@@ -45,7 +45,7 @@ $('#gform').on('submit', function(e) {
 </script>
 
 <div style="text-align:center"><form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSesBYaVCQM-NDpRlMn8QnpjHFccGZ0p6LW1I69tBJElzHB0rA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
-  Adresse mail: 
+  Adresse mail:
   <input type="text" name="entry.119910746" id="entry.119910746">
   <!--Commentaire : <br>
   <input type="text" name="entry.383631987" id="entry.383631987"> -->
@@ -55,7 +55,7 @@ $('#gform').on('submit', function(e) {
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 </div>
 
-Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les réseaux sociaux, nous ferons notre possible pour vous répondre le plus rapidement possible : 
+Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les réseaux sociaux, nous ferons notre possible pour vous répondre le plus rapidement possible :
 
 [Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
 
@@ -71,4 +71,3 @@ Merci aux personnes ayant organisé ce hackathon, aux participant·es ainsi qu'a
 ---
 
 ![Alt text](https://i.imgur.com/qoXCjTo.jpg)
-
