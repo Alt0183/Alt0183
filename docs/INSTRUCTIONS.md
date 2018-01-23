@@ -6,11 +6,15 @@ Pour réaliser votre bouton Alt0183, vous aurez besoin des produits suivants :
 
 > Les liens sont donnés à titre indicatifs. C'est ceux que nous avons utilisé pour le prototype donc nous savons que ce matériel est compatible. Cependant, ce projet est également réalisable avec une carte Arduino Leonardo et avec n'importe quel type de bouton poussoir. N'hésitez donc pas à adapter le matériel selon vos besoins ou ce que vous avez sous la main.
 
+> Attention à ne pas confondre la carte Arduino Pro Micro avec une Arduino Nano ou Mini. Le microcontroleur est différent et ne permet pas de se faire passer pour un clavier. Par contre, la carte Leonardo 
+est compatible, cependant elle ne rentrera pas dans le boitier proposé ici. Si vous avez un doute lors du choix de la carte, l'important est de vérifier que le microcontrôleur soit un Atmega32u4.
+
 Vous aurez également besoin des équipements suivants :
 * fer à souder
 * imprimante 3D
 
-Si vous ne disposez pas de ces outils, nous vous conseillons de prendre contact avec un fablab près de chez vous.
+> Si vous ne disposez pas de ces outils, nous vous conseillons de prendre contact avec un fablab près de chez vous ou de passer par un service d'impression 3D à la demande comme [Sculpteo](www.sculpteo.com) ou [3DHubs](www.3dhubs.com).
+
 
 # Impression 3D du boitier 
 
@@ -39,15 +43,15 @@ Visser le bouton dans le boitier :
 
 ![assemblage](IMG/alt-4.jpg)
 
-Brancher le bouton selon le schéma suivant :
-
-![Cablage](IMG/wiring_leo_pro.png)
-
-Un des deux fils doit se brancher sur le port 8 et l'autre sur un port GND. Vous pouvez bien sur brancher autrement, mais il faudra alors apporter les modifications nécessaires dans le code Arduino.
+Brancher les deux fils du bouton sur la carte Arduino. Un des deux fils doit se brancher sur le port 8 et l'autre sur un port GND. Vous pouvez bien sur brancher autrement, mais il faudra alors apporter les modifications nécessaires dans le code Arduino.
 
 Positionner l'arduino dans la boite et la refermer.
 
 ![Assemblage](IMG/alt-5.jpg)
+
+## Collez le buzzer 
+
+Collez le buzzer sur le bouton poussoir avec de la colle néoprène ou de la super glue.
 
 # Programmation 
 A cette étape, vous pouvez brancher l'arduino à votre ordinateur
