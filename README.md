@@ -2,13 +2,14 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ![Alt text](docs/IMG/buzzer2.jpg)
 
+
 ## Comment ça marche ?
 
 - Fabriquez votre boîtier [en suivant les instructions ici](docs/INSTRUCTIONS)
 - Connectez-le à votre ordinateur par USB, rien à installer
 - Appuyez l'égalité dans le langage !
 
-![Alt text](docs/IMG/buzzer.jpg)
+![Alt text](docs/IMG/alt7.jpg)
 
 - Clic simple = "·"
 - Double clic = "·es"
@@ -52,22 +53,29 @@ $('#gform').on('submit', function(e) {
   <input type="submit" value="Envoyer">
 </form>
 
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe> <br>
 </div>
+
 
 Pour toute autre demande, n'hésitez pas à nous contacter par mail ou via les réseaux sociaux, nous ferons notre possible pour vous répondre le plus rapidement possible :
 
 [Contact](mailto:contact.alt0183@gmail.com) | [Twitter](https://twitter.com/Alt0183_) | [Instagram](https://www.instagram.com/Alt0183)
 
 
+# Contribuer
+
+Vous souhaitez participer au projet? Organiser un atelier? Fabriquer, voire commercialiser, des boutons Alt0183?
+
+Les différentes manières de s'impliquer dans le projet sont décrites sur [cette page](docs/contribuer).
+
 ---
 
 Ce projet a été réalisé lors du Hackathon écriture inclusive 13/14 janvier 2018 par [Guillaume Marion](https://github.com/guillaumemarion) et est partagé sous licence GNU General Public License v3.0
 
-<div style="text-align:center"><a href="http://hackecritureinclusive.com/" rel="site hackathon ecriture inclusive"><img src ="docs/IMG/HEI.png"/></a></div>
-
 Merci aux personnes ayant organisé ce hackathon, aux participant·es ainsi qu'aux sponsors!
 
----
+<div style="text-align:center"><a href="http://hackecritureinclusive.com/" rel="site hackathon ecriture inclusive"><img src ="docs/IMG/HEI.png"/></a></div>
 
-![Alt text](https://i.imgur.com/qoXCjTo.jpg)
+
+
+---
