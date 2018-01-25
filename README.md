@@ -16,9 +16,9 @@ Alt0183 est le caractère du point milieu, dont l'usage participe à l'égalité
 
 ## Participez à un atelier pour fabriquer votre boitier Alt0183
 
-Vous pensez ne pas savoir comment fabriquerun bouton Alt0183? nous allons vous prouver le contraire! =)
+Vous pensez ne pas savoir comment fabriquer un bouton Alt0183? Nous allons vous prouver le contraire! =)
 
-Rejoignez nous le 17 février à 14h au SimplonLab --> [INSCRIPTIONS](https://fabmanager.simplon.co/#!/events/31) 
+Prochain atelier le 17 février à 14h au SimplonLab --> [INSCRIPTIONS](https://fabmanager.simplon.co/#!/events/31) 
 
 ## Ressources sur l'écriture inclusive
 
