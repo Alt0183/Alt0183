@@ -82,7 +82,14 @@ Votre fenêtre doit maintenant ressembler à cela :
 
 ![Fenetre Arduino après avoir collé le code](IMG/arduino.PNG)
 
-Sauvegarez le fichier
+Settez votre système d'exploitation sur la ligne suivante :
+```
+const int OS = <votre OS>;
+```
+Pour Windows, utilisez `OS_PC`.
+Pour Mac, utilisez `OS_MAC`.
+
+Sauvegardez le fichier
 
 ## Téléverser le code sur la carte Arduino
 

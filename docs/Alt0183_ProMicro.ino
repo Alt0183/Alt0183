@@ -2,6 +2,12 @@
 #include <Keyboard.h>
 #include <OneButton.h>
 
+const int OS_PC = 0;
+const int OS_MAC = 1;
+
+// Set OS
+const int OS = OS_MAC;
+
 // Creation de l'objet boutton et definition de la broche sur laquelle il est branché
 OneButton button(8, true);
 
@@ -21,21 +27,32 @@ void loop() {
 }
 
 void ptMed() {
-        // Fonction qui fait croire à windows qu'on clique successivement sur ALT 0183
-        Keyboard.press(KEY_LEFT_ALT);
-        Keyboard.press(234);
-        delay(10);
-        Keyboard.release(234);
-        Keyboard.press(225);
-        delay(10);
-        Keyboard.release(225);
-        Keyboard.press(232);
-        delay(10);
-        Keyboard.release(232);
-        Keyboard.press(227);
-        delay(10);
-        Keyboard.release(227);
-        Keyboard.releaseAll();
+        if (OS == OS_PC) {
+          // Envoie Alt+0183 pour Windows
+          Keyboard.press(KEY_LEFT_ALT);
+          Keyboard.press(234);
+          delay(10);
+          Keyboard.release(234);
+          Keyboard.press(225);
+          delay(10);
+          Keyboard.release(225);
+          Keyboard.press(232);
+          delay(10);
+          Keyboard.release(232);
+          Keyboard.press(227);
+          delay(10);
+          Keyboard.release(227);
+          Keyboard.releaseAll();
+        }
+
+        if (OS == OS_MAC) {
+          // Envoie Option+Maj+F pour Mac
+          Keyboard.press(KEY_LEFT_ALT);
+          Keyboard.press(KEY_LEFT_SHIFT);
+          Keyboard.press('F');
+          delay(10);
+          Keyboard.releaseAll();
+        }
 }
 
 void myClickFunction() {
